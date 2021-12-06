@@ -2,14 +2,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-   <title>Deepanshu's Resume</title>
+   <title>Introduction to Stoic philosophy</title>
   </head>				
-  <body style="font-family:Times New Roman">
-  				<h2>Hobbies</h2>
-  				<hr size="5">• Cycling<br>
-  		<br>		• Swimming<br>
-  				<br>• Reading Books<br>
-  				<br>• Gymming
+  <body style="font-family:Didot">
+  				<h2>Notable Thinkers of the past</h2>
+  				<hr size="5">• senecca<br>
+  		<br>		• Marcus Aurelius<br>
+  				<br>• Plato<br>
+  				<br>• Chanakya
   </body>
 </html>
